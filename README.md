@@ -5,7 +5,7 @@
 ---
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](https://thisissahil.github.io/shifra-ai-assistant/)
+👉 [Click here to view the live project](https://thisissahill.github.io/shifra-ai-assistant/)
 
 ---
 ## 📸 Screenshot
