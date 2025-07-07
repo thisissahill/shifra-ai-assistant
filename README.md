@@ -1,12 +1,47 @@
-# React + Vite
+# 🤖 Shifra – AI Virtual Assistant (React + Gemini)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Shifra** is a futuristic AI-powered voice assistant built with React, the Web Speech API, and Google Gemini AI. It can listen to your voice, process queries through an AI model, and respond with natural speech. Ideal for students, developers, and AI enthusiasts exploring web-based conversational interfaces.
 
-Currently, two official plugins are available:
+---
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to view the live project](https://thisissahil.github.io/shifra-ai-assistant/)
 
-## Expanding the ESLint configuration
+---
+## 📸 Screenshot
+👉 [Shifra UI Preview](./screenshots/screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React + Vite | Frontend Framework |
+| Google Gemini API | AI Response Engine |
+| Web Speech API | Voice Input & Output |
+| HTML + CSS | Styling and Layout |
+| GitHub Pages | Deployment |
+
+---
+
+## 🚀 Features
+
+- 🎤 Voice input using the Web Speech API
+- 🧠 Smart responses from Google Gemini AI
+- 🔊 Realistic speech feedback via text-to-speech
+- 🌐 Mobile-first responsive UI
+- 🎨 Gradient and glowing cyberpunk-styled buttons and avatar
+- ⚠️ Quota and error handling with user alerts
+
+---
+
+## 📦 Installation
+ 1. Clone the Repo
+git clone https://github.com/thisissahil/shifra-ai-assistant.git
+cd shifra-ai-assistant
+2. Install Dependencies
+   npm install
+3. Run Locally
+    npm run dev
+
