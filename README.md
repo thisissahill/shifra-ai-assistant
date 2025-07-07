@@ -37,13 +37,14 @@
 ---
 
 ## 📦 Installation
- 1. Clone the Repo
+# 1. Clone the repository
 git clone https://github.com/thisissahil/shifra-ai-assistant.git
 cd shifra-ai-assistant
 
-3. Install Dependencies
-   npm install
-   
-5. Run Locally
-    npm run dev
+# 2. Install dependencies
+npm install
+
+# 3. Run the app locally
+npm run dev
+
 
