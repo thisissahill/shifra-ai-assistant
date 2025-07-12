@@ -37,6 +37,7 @@
 ---
 
 ## 📦 Installation
+
 # 1. Clone the repository
 git clone https://github.com/thisissahil/shifra-ai-assistant.git
 cd shifra-ai-assistant
